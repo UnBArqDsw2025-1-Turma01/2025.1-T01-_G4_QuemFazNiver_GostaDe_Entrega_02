@@ -3,7 +3,8 @@
 - [**Home**](/README.md)
 
 - **Modelagem**
-  - **2. Desenho de Software (Modelagem)**
+
+- **2. Desenho de Software (Modelagem)**
     - **2.1. Modelagem UML Estática**
       - [2.1.1. Diagrama de Classes](/Modelagem/2.1.1.DiagramaClasse.md)
       - [2.1.2. Diagrama de Componentes](/Modelagem/2.1.2.DiagramaComponentes.md)
@@ -16,5 +17,7 @@
     - **2.3. Modelagem UML Organizacional ou Casos de Uso**
       - [2.3.1.  Diagrama de Pacotes](/Modelagem/2.3.1.DiagramaPacotes.md)
       - [2.3.2.  Diagrama de Casos de Uso](/Modelagem/2.3.2.DiagramaCasosdeUso.md)
-    - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
-    - [2.5. Iniciativas Extras - Modelagem](/docs/Modelagem/2.5.IniciativasExtras.md)
+    - [**2.4. Participações - Modelagem**](/Modelagem/2.4.ParticipacoesModelagem.md)
+    - [**2.5. Iniciativas Extras - Modelagem**](/docs/Modelagem/2.5.IniciativasExtras.md)
+    - [**2.5. Atas - Reuniões**](/docs/Modelagem/2.5.IniciativasExtras.md)
+      - [2.5.1. Reunião 1](/Modelagem/2.5.1.reuniao1.md)

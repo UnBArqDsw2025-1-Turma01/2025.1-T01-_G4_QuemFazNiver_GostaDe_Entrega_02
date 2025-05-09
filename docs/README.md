@@ -48,4 +48,5 @@ docsify serve ./docs
 
 | Versão | Data       | Descrição                                      | Autor(es)                         |
 |--------|------------|------------------------------------------------|-----------------------------------|
-| `1.0`  | 09/05/2025 | Adição da home |[Mayara Alves](https://github.com/Mayara-tech)|
+| `1.0`  | 09/05/2025 | Criação da página | [Letícia Resende](https://github.com/LeticiaResende23)  |
+| `1.1`  | 09/05/2025 | atualização da equipe | [Mayara Alves ](https://github.com/mayara-tech)  |
