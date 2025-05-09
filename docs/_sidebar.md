@@ -8,7 +8,7 @@
     - **2.1. Modelagem UML Estática**
       - [2.1.1. Diagrama de Classes](/Modelagem/2.1.1.DiagramaClasse.md)
       - [2.1.2. Diagrama de Componentes](/Modelagem/2.1.2.DiagramaComponentes.md)
-      - [2.1.3. Diagrama de Implementação](/Modelagem/2.1.3.DiagramaImplementacao.md)
+      - [2.1.3. Diagrama de Implantação](/Modelagem/2.1.3.DiagramaImplantacao.md)
     - **2.2. Modelagem UML Dinâmica**
       - [2.2.1. Diagrama de Sequência](/Modelagem/2.2.1.DiagramaSequencia.md)
       - [2.2.2. Diagrama de Atividades](/Modelagem/2.2.2.DiagramaAtividades.md)
