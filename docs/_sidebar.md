@@ -18,6 +18,8 @@
       - [2.3.1.  Diagrama de Pacotes](/Modelagem/2.3.1.DiagramaPacotes.md)
       - [2.3.2.  Diagrama de Casos de Uso](/Modelagem/2.3.2.DiagramaCasosdeUso.md)
     - [**2.4. Participações - Modelagem**](/Modelagem/2.4.ParticipacoesModelagem.md)
-    - [**2.5. Iniciativas Extras - Modelagem**](/docs/Modelagem/2.5.IniciativasExtras.md)
-    - [**2.5. Atas - Reuniões**](/docs/Modelagem/2.5.IniciativasExtras.md)
+    - **2.5. Iniciativas Extras - Modelagem**
+    - **Atas - Reuniões**
       - [2.5.1. Reunião 1](/Modelagem/2.5.1.reuniao1.md)
+    - **Modelagem extra**
+      - [2.5.2. Diagrama de Estrutura Composta](/Modelagem/2.5.2.DiagramaEstruturaComposta.md)
